@@ -1,0 +1,14 @@
+Advantages:
+Demonstrates real Linux system calls.
+Provides practical understanding of file descriptors.
+Demonstrates directory traversal.
+Provides basic file management functionality.
+Uses modular C programming.
+Can be extended with additional features.
+
+Disadvantages:
+The application is command-line based.
+Directory deletion is limited to empty directories.
+File permissions and ownership changes are not implemented.
+The program is primarily designed for Linux systems.
+The interface does not provide graphical file management.
