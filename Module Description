@@ -1,0 +1,38 @@
+main.c
+
+Acts as the main controller of the application.
+
+It displays the menu, accepts user input, and calls the appropriate functions.
+
+explorer.c
+
+Contains functions related to:
+
+Current working directory
+User interface
+Main menu
+directory.c
+
+Contains directory-related operations:
+
+Listing directory contents
+Changing directory
+Moving to parent directory
+Creating directories
+Removing directories
+file_operations.c
+
+Contains file-related operations:
+
+File information
+Reading files
+Creating files
+Deleting files
+Renaming files
+search.c
+
+Implements recursive file and directory searching.
+
+Header Files
+
+Header files contain function declarations used by the corresponding source files.
