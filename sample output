@@ -1,0 +1,34 @@
+============================================
+       LINUX FILE SYSTEM EXPLORER
+============================================
+
+Current Directory: /home/jay/Linux-File-System-Explorer
+
+1.  List Directory
+2.  Change Directory
+3.  Go to Parent Directory
+4.  File Information
+5.  Read File
+6.  Create File
+7.  Create Directory
+8.  Delete File
+9.  Delete Directory
+10. Rename File/Directory
+11. Search File
+12. Exit
+
+Enter choice: 1
+
+========================================
+          DIRECTORY CONTENTS
+========================================
+
+[DIR ]  .
+[DIR ]  ..
+[FILE]  main.c
+[FILE]  explorer.c
+[FILE]  directory.c
+[FILE]  file_operations.c
+[FILE]  search.c
+[FILE]  Makefile
+[FILE]  README.md
