@@ -1,0 +1,13 @@
+| File                | Responsibility                 |
+| ------------------- | ------------------------------ |
+| `main.c`            | Main menu and program control  |
+| `explorer.c`        | Current directory and UI       |
+| `explorer.h`        | Explorer function declarations |
+| `directory.c`       | Directory operations           |
+| `directory.h`       | Directory declarations         |
+| `file_operations.c` | File operations                |
+| `file_operations.h` | File declarations              |
+| `search.c`          | Recursive search               |
+| `search.h`          | Search declarations            |
+| `Makefile`          | Automated compilation          |
+| `README.md`         | Project documentation          |
