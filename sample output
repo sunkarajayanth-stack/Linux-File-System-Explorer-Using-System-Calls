@@ -2,7 +2,8 @@
        LINUX FILE SYSTEM EXPLORER
 ============================================
 
-Current Directory: /home/jay/Linux-File-System-Explorer
+Current Directory:
+/home/jay
 
 1.  List Directory
 2.  Change Directory
@@ -15,20 +16,103 @@ Current Directory: /home/jay/Linux-File-System-Explorer
 9.  Delete Directory
 10. Rename File/Directory
 11. Search File
-12. Exit
+12. Write to File
+13. Append to File
+14. Copy File
+15. Change File Permissions
+16. Create Symbolic Link
+17. Read Symbolic Link
+18. Clear File Contents
+19. Exit
 
 Enter choice: 1
 
-========================================
-          DIRECTORY CONTENTS
-========================================
-
+============================================
+              DIRECTORY CONTENTS
+============================================
+[FILE]  memory
+[FILE]  .bashrc
+[FILE]  exec1.c
+[FILE]  pipe2.c
+[FILE]  pipeex2.c
+[FILE]  roundrobin.c
+[DIR ]  .cache
+[FILE]  c2
+[FILE]  signal1.c
+[FILE]  a.out
+[FILE]  .profile
+[FILE]  waitex.c
+[FILE]  memory_asan
+[FILE]  signal3.c
+[FILE]  p5.c
+[DIR ]  student_portal
+[OTHER] fifo
+[FILE]  myfile2.txt
+[FILE]  exec3.c
+[FILE]  z
+[DIR ]  .local
+[FILE]  open1.c
+[FILE]  fcfs.c
+[DIR ]  Linux-File-System-Explorer
+[FILE]  .viminfo
+[FILE]  f1
+[FILE]  segmentation.c
+[DIR ]  Linux-File-System-Explorer2
+[FILE]  signal.c
+[FILE]  b2
+[FILE]  zom.c
+[OTHER] server_fifo
+[FILE]  .motd_shown
+[FILE]  z.c
+[FILE]  .sh_history
+[FILE]  pipe1.c
+[FILE]  project.c
+[FILE]  pipe6.c
+[FILE]  server.c
+[FILE]  namedpipeex.c
 [DIR ]  .
+[DIR ]  permission_lab
+[FILE]  a8
+[FILE]  pipe7.c
+[FILE]  execvp.c
+[FILE]  writeread2.c
+[DIR ]  .config
+[FILE]  .bash_history
+[FILE]  client1.c
+[FILE]  signal2.c
+[FILE]  practical1.c
+[FILE]  pipe1
+[FILE]  program1.c
+[FILE]  pipeex.c
+[FILE]  client.c
+[FILE]  posix.c
+[FILE]  b1
 [DIR ]  ..
-[FILE]  main.c
-[FILE]  explorer.c
-[FILE]  directory.c
-[FILE]  file_operations.c
-[FILE]  search.c
-[FILE]  Makefile
-[FILE]  README.md
+[FILE]  creatreadwrite.c
+[FILE]  sjf.c
+[FILE]  readwrite.c
+[FILE]  myfile.txt
+[FILE]  consumer.c
+[FILE]  newfile1
+[FILE]  memory1.c
+[OTHER] fifo1
+[FILE]  a1
+[FILE]  fork.c
+[FILE]  exec2.c
+[FILE]  memory.c
+[FILE]  read1.c
+[FILE]  .bash_logout
+[DIR ]  linux_task4
+[FILE]  pipeex1.c
+[FILE]  practical2.c
+[FILE]  pipetask.c
+[FILE]  a2
+[FILE]  FIFO1.c
+[FILE]  practical3.c
+[FILE]  nano.1378.save
+[FILE]  c1
+[FILE]  pip
+[FILE]  exec4.c
+[OTHER] myfifo
+
+Press Enter to continue...
