@@ -2,6 +2,9 @@
        LINUX FILE SYSTEM EXPLORER
 ============================================
 
+Current Directory:
+/home/jay
+
 1.  List Directory
 2.  Change Directory
 3.  Go to Parent Directory
@@ -13,4 +16,13 @@
 9.  Delete Directory
 10. Rename File/Directory
 11. Search File
-12. Exit
+12. Write to File
+13. Append to File
+14. Copy File
+15. Change File Permissions
+16. Create Symbolic Link
+17. Read Symbolic Link
+18. Clear File Contents
+19. Exit
+
+Enter choice:
